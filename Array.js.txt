@@ -1,0 +1,19 @@
+// 4 pessoas em um curso vão receber 3 notas cada uma. Como organizamos isso em variaveis 
+// Aluno > Aln | Nota > Nota
+
+// Notas do primeiro aluno 
+let Aln01N01 = 8;
+let Aln01N01 = 5;
+let Aln01N01 = 3;
+
+// Notas do segundo aluno
+let Aln01N01 = 
+
+
+
+//------------------------
+// Notas em Array 
+// Aluno  | N1 | N2 | N3
+let Aln01 = [8, 5, 3];
+let Aln02 = [7, 8, 5];
+
